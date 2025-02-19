@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Djacem</h1>
-- 🔭 Actively involve in the Cyberattack and Cyberdefe **.**
+- 🔭 Actively involve in the Cyberattack and Cyberdefe .
 
 - 🌱 Outstanding professional command of English and almost all computer languages **.**
 
@@ -7,13 +7,13 @@
 
 - 🤝 I am open to any suggestions or help **.**
 
-- 👨‍💻 All my projects are available on my Portfolio [.](.)
+- 👨‍💻 All my projects are available on my Portfolio .
 
 - 📫 Contact me at : **djacem.madani@laplateforme.io**
 
-- 📄 Discover my expertise: Cybersecurity expert, specializing in data protection and attack services [.](.)
+- 📄 Discover my expertise: Cybersecurity expert, specializing in data protection and attack services .
 
-- ⚡ Fun fact : **Nothing makes me happier than solitude.**
+- ⚡ Fun fact : **Nothing makes me happier than solitude .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
